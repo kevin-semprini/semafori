@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Desktop\semafori\bin\Debug\net8.0\semafori.exe
+C:\Users\kevin\OneDrive\Desktop\semafori\bin\Debug\net8.0\semafori.deps.json
+C:\Users\kevin\OneDrive\Desktop\semafori\bin\Debug\net8.0\semafori.runtimeconfig.json
+C:\Users\kevin\OneDrive\Desktop\semafori\bin\Debug\net8.0\semafori.dll
+C:\Users\kevin\OneDrive\Desktop\semafori\bin\Debug\net8.0\semafori.pdb
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.dll
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\refint\semafori.dll
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.pdb
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\semafori.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Desktop\semafori\obj\Debug\net8.0\ref\semafori.dll
